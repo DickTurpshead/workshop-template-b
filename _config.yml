@@ -37,18 +37,20 @@ search: true
 # author settings for cc-by, appears in the footer and credits
 #####author: evan will
 author: dick turpshead
-#################################################
+
 
 # your github username for link [optional]
-github_username: evanwill
-# year or date published
-pub_year: 2021
+#####github_username: evanwill
+github_username: dickturpshead
 
+# year or date published
+######pub_year: 2021
+pub_year: 2022
 
 # location of code, the full url to your github repository
 #####source-code: https://github.com/evanwill/workshop-template-b
 source-code: https://github.com/DickTurpshead/workshop-template-b
-
+#######################################
 
 ##########
 # URL VARIABLES [optional!]
