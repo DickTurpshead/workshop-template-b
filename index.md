@@ -17,8 +17,8 @@ Fun!
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
-{% include toc.html %}
+#####{% include toc.html %}
 
 ------
 
-{% include template/credits.html %}
+#####{% include template/credits.html %}
